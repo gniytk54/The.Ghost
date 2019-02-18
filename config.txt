@@ -1,0 +1,6 @@
+owner=475739743670370306
+prefix=G
+game=Ghost
+stayinchannel=true
+songinstatus=false
+token=NTQ3MDI2MjE2MTMwMDUyMDk2.D0wyWg.w9iUKhR_xWFg5tmkeqvCSuS37o4
